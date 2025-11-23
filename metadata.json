@@ -1,0 +1,5 @@
+{
+  "name": "前端大师 AI",
+  "description": "一个由 AI 驱动的前端面试准备平台，提供精选的面试题库，并通过 Gemini 生成实时的深度解析和代码示例。",
+  "requestFramePermissions": []
+}
